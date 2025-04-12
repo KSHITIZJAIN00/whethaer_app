@@ -1,4 +1,4 @@
-// server/routes/weather.js
+
 const express = require("express");
 const axios = require("axios");
 const apiKeys = require("../apiKeys");
